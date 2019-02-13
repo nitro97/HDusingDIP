@@ -1,0 +1,5 @@
+person
+no helmet
+motor bike
+helmet
+license plate
